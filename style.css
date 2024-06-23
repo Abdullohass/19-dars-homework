@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 36px 0;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.menu li a {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26.38px;
+    text-align: left;
+    color: #7D7987;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: black;
+}
+
+.ota2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 321px;
+}
+
+.ogil {
+    text-align: left;
+    width: 300px;
+    height: 200px;
+}
+
+.ogil p {
+    color: #7D7987;
+    margin-top: 8px;
+}
+
+.ogil button {
+    padding: 7px;
+    border-radius: 15px;
+    margin-top: 13px;
+    padding: 8px;
+    border: 1px solid #5A98F2;
+    color: #5A98F2;
+    background-color: white;
+}
+
+.ogil button:hover {
+    color: white;
+    background-color: #5A98F2;
+}
+
+.cl {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+
+.ass {
+    text-align: center;
+    width: 750px;
+    margin-left: 250px;
+    color: #7D7987;
+}
+
+.ota3 {
+    background-color: #c7c2c2;
+    width: 320px;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 45px;
+}
+
+.ota3 img {
+    padding: 0px 30px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+
+.ota3 h3 {
+    padding: 10px 30px;
+}
+
+.ota3 p {
+    padding: 7px 30px;
+}
+
+.ota4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 9px;
+    border-radius: 15px;
+    border: 1px solid #5A98F2;
+    color: #5A98F2;
+    background-color: white;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #5A98F2;
+}
+
+.ota3:hover {
+    color: white;
+    background-color: #5A98F2;
+}
+
+.hh {
+    text-align: center;
+    margin: 76px;
+}
+
+.ogil2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h33 {
+    text-align: center;
+    margin: 153px 0 50px 0;
+}
+
+.ota6 {
+    width: 300px;
+    height: 320px;
+    text-align: left;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+.ota7 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ota8 {
+    background-color: #5A98F2;
+    padding: 40px;
+}
+
+.menu1 li a {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    text-decoration: none;
+}
+
+.fr {
+    margin: 50px;
+}
+
+.doda {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* .otaa{display: flex;} */
